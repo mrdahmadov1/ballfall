@@ -1,9 +1,8 @@
 {
   "name": "ballfall",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mrdahmadov1.github.io/ballfall/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
